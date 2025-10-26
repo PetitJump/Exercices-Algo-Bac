@@ -36,18 +36,3 @@ assert rechercher([1, 2, 34, "a", "S.Meden", 324, 4], "a") == 3
 print("Fonction rechercher() fonctionnel !")
 
 ############################################################################################
-
-def repetition(texte: str) -> dict:
-    """Compte de nombre de répétition de lettre dans un texte"""
-    rendu = {}
-    for i in range(len(texte)):
-        if texte[i] in rendu:
-            rendu[texte[i]] += 1
-        else:
-            rendu[texte[i]] = 1
-    return rendu
-
-assert repetition("test") == {"t" : 2, "e" : 1, "s" : 1}
-print("Fonction repetition() fonctionnel !")
-
-############################################################################################
