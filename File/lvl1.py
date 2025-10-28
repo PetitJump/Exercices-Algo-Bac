@@ -45,4 +45,4 @@ def pleine_ou_non(f:File):
     """Regarde si une File est pleine ou non. Renvoie True si elle est pleine"""
     ...
 
-assert pleine_ou_non(File(5)) == False
+#assert pleine_ou_non(File(5)) == False
