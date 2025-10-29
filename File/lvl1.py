@@ -35,19 +35,6 @@ class File:
 
 ##################################### Exercices ################################
 
-
-def enfiler(x, f: File):
-    """Enfile x dans la File f"""
-    ...
-
-
-def pleine_ou_non(f:File):
-    """Regarde si une File est pleine ou non. Renvoie True si elle est pleine"""
-    ...
-
-assert pleine_ou_non(File(5)) == False
-
-
 def distribuer(nb_joueurs: int, f:File):
     """Distribue une carte pour chaque joueurs"""
     for i in ...:
