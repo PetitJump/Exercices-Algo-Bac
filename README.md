@@ -19,7 +19,7 @@ Actuellement, tu trouveras des dossiers par thème :
 Chaque dossier contient :
 - des **niveaux de difficulté** (`lvl1`, `lvl2`, `lvl3`, ...)  
 - des **exercices complets**, avec trous
-- des **fichier experts**, où il y a des algorithmes à completer de 0 !
+- des **fichier experts**, où il y a des algorithmes à completer de zero !
 - et bientôt des **annales du bac** 
 La plupars des algos proposer on déjà été vu au bac 👀
 
