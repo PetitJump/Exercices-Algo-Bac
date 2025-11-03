@@ -1,16 +1,15 @@
 ############################################################################################
 
-def repetition(texte: str) -> dict:
-    """Compte de nombre de répétition de lettre dans un texte"""
-    rendu = ... #On initialise un dictionaire
-    for i in range(len(...)):
-        if texte[i] in rendu: #Si la lettre est déjà dans le dictionaire rendu
-            rendu[texte[i]] += ...
-        else:
-            rendu[...] = 1
+def jours_mois() -> dict:
+    """Crée un dictionnaire qui associe les mois et les jours"""
+    mois = ["janvier", "février", "mars"]
+    jours = [31, 28, 31]
+    dico = ... #On initialise un dictionnaire vide
+    for i in range(...): #Pour chaque mois
+        dico[...] = ... #Associer le mois aux jours
     return ...
 
-assert repetition("test") == {"t" : 2, "e" : 1, "s" : 1}
-print("Fonction repetition() fonctionnel !")
+assert jours_mois() == {"janvier": 31, "février": 28, "mars": 31}
+print("Fonction jours_mois() fonctionnelle !")
 
 ############################################################################################
