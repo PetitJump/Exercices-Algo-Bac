@@ -19,8 +19,9 @@ Actuellement, tu trouveras des dossiers par thème :
 Chaque dossier contient :
 - des **niveaux de difficulté** (`lvl1`, `lvl2`, `lvl3`, ...)  
 - des **exercices complets**, avec trous
+- des **fichier experts**, où il y a des algorithmes à completer de 0 !
 - et bientôt des **annales du bac** 
-La plupars des algos on déjà été vu au bac 👀
+La plupars des algos proposer on déjà été vu au bac 👀
 
 ---
 
@@ -55,6 +56,7 @@ Si tu veux suivre l’évolution :
 
 ## 🧠 À venir 🧠
 
+- 🧨 Création de **fichier expert** pour chaque thème
 - 🧮 Annales du bac NSI 
 - 🧰 Plus d’exercices par thème
 - 🏗️ Plus de thèmes qui doivent être maitriser pour le bac
