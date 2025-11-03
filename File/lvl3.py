@@ -13,8 +13,8 @@ def combiner(f1: File, f2: File) -> File:
         ... #On défile tout les éléments de f2 et on les mets dans liste2
     liste3 = ... #On met liste1 et liste2 dans liste3
     liste3 = sorted(...) #Ont tri de manière croissante la liste avec la méthode sorted()
-    for k in liste3:
+    for k in ...:
         ... #On enfile tout les éléments de liste3 dans rendu
-    return rendu
+    return ...
 
 ############################################################################################
