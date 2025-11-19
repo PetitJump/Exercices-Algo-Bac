@@ -1,7 +1,7 @@
 ############################################################################################
 
 def jours_mois() -> dict:
-    """Crée un dictionnaire qui associe les mois et les jours"""
+    """Crée un dictionnaire qui associe deux liste entre elles"""
     mois = ["janvier", "février", "mars"]
     jours = [31, 28, 31]
     dico = ... #On initialise un dictionnaire vide
