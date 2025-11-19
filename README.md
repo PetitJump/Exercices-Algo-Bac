@@ -15,6 +15,7 @@ Actuellement, tu trouveras des dossiers par thème :
 - 🧾 [**File**](./File) → structure FIFO (First In First Out)
 - 🔑 [**Dict**](./Dict) → dictionnaires
 - 🔁 [**Tri**](./Tri) → trier, comparer, organiser les données ⚠️Exercices de niveau avancé⚠️ 
+Pour vous aider vous avez des tests (assert) pour voir ce que le programme attend de vous !
 
 Chaque dossier contient :
 - des **niveaux de difficulté** (`lvl1`, `lvl2`, `lvl3`, ...)  
