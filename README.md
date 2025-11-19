@@ -57,7 +57,6 @@ Si tu veux suivre l’évolution :
 
 ## 🧠 À venir 🧠
 
-- 🧨 Création de **fichier expert** pour chaque thème
 - 🧮 Annales du bac NSI 
 - 🧰 Plus d’exercices par thème
 - 🏗️ Plus de thèmes qui doivent être maitriser pour le bac
