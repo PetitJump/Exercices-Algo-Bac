@@ -43,6 +43,7 @@ Ce projet a pour but de :
 Si tu es ici, c’est que tu veux **apprendre vraiment**.  
 L’IA peut t’aider à aller plus vite — mais elle ne doit **jamais te voler ton apprentissage**.  
 **Joue le jeu** : réfléchis, essaye, expérimente, et ensuite seulement demande de l’aide.
+Pour apprendre : [Cours](https://github.com/h4r1cX/NSIpedia)
 
 ---
 
